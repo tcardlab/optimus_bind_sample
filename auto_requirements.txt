@@ -15,7 +15,7 @@ idna==2.8
 imagesize==1.1.0
 Jinja2==2.10.1
 jmespath==0.9.4
-lxml==4.3.3
+lxml==4.6.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 packaging==19.0
